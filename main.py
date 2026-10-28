@@ -1,2 +1,2 @@
 import streamlit as st
-st.titls('나의 첫 웹 서비스 만들기')
+st.title('나의 첫 웹 서비스 만들기')
